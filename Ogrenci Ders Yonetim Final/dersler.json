@@ -1,0 +1,17 @@
+[
+    {
+        "Ad": "Siber Guvenlik",
+        "Kredi": 2,
+        "OgretimGorevlisi": {"Id": 1, "AdSoyad": "Şule Özgenç", "Unvan": "Doçent"},
+        "Ogrenciler": [
+            {"Id": 1, "AdSoyad": "Ahmet"},
+            {"Id": 2, "AdSoyad": "Mehmet"}
+        ]
+    },
+    {
+        "Ad": "Nesneye Dayali Programlama",
+        "Kredi": 3,
+        "OgretimGorevlisi": {"Id": 2, "AdSoyad": "Sinan Özdemir", "Unvan": "Profesör"},
+        "Ogrenciler": []
+    }
+]
