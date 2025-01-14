@@ -1,4 +1,4 @@
-Öğrenci ve Ders Yönetim Sistemi
+-Öğrenci ve Ders Yönetim Sistemi-
 Bu proje, öğrenci ve ders yönetimini kolaylaştırmak için tasarlanmış bir konsol uygulamasıdır. Kullanıcılar öğrenci, öğretim görevlisi ve ders bilgilerini ekleyebilir, derslere öğrenci kaydedebilir, ders ve öğretim görevlisi bilgilerini listeleyebilir.
 
 İçerik
